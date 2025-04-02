@@ -16,7 +16,7 @@ Este é um sistema simples desenvolvido em C, que simula o funcionamento de uma 
 
 1. Faça o **clone** do repositório para sua máquina local:
     ```bash
-    git clone https://github.com/seu-usuario/sistema-concessionaria.git
+    git clone https://github.com/gitomacelli/sistema-concessionaria.git
     ```
 
 2. Compile o código:
